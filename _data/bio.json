@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "graphic esign",
+      "name": "graphic design",
       "keywords": [
       ]
     }
@@ -55,17 +55,6 @@
         "Javascript",
         "Python"
       ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
     }
   ],
   "education": [
@@ -75,6 +64,16 @@
       "studyType": "B.S.",
       "startDate": "2018-",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2015-",
+      "endDate": "2017",
       "gpa": "",
       "courses": [
       ]
