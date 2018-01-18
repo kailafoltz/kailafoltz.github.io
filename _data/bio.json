@@ -6,7 +6,7 @@
     "email": "foltzk@hawaii.edu",
     "phone": "808-256-9623",
     "website": "https://kailafoltz.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "game development",
+      "name": "indie game development",
       "keywords": [
       ]
     },
@@ -60,7 +60,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2020)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2018-",
       "endDate": "Present",
