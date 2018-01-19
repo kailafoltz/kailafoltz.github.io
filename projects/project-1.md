@@ -11,7 +11,7 @@ labels:
 summary: I created a text-based game that simulates a Pokemon Battle
 ---
 
-I made a Pokemon text-based game in Java using classes that I made for the different Pokemon (Bulbasaur, Venusaur, Ivysaur, Squirtle, Wartortle, Blastoise, Charmander, Charmeleon, and Charizard).
+I made a Pokemon text-based game in Java using classes that I created for the different Pokemon (Bulbasaur, Venusaur, Ivysaur, Squirtle, Wartortle, Blastoise, Charmander, Charmeleon, and Charizard).
 
 In this game:
 Two players will alternate turns.
