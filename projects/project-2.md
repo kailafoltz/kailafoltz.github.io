@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/maxresdefault.jpg
-title: File's SHA-1 Code
+title: ICS 211 - SHA-1
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-10
@@ -14,7 +14,7 @@ summary: A C++ program that produces a hash code from a file's contents.
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This is a program that I made for my final project in ICS212, Spring 2017. The project helped me learn how to 
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
