@@ -7,10 +7,8 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+summary: I created a text-based game that simulates a Pokemon Battle
 ---
 
 <div class="ui small rounded images">
