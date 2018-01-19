@@ -6,7 +6,7 @@ title: Hello World Changed My Life
 date: 2018-01-18
 labels:
   - Career
-summary: I created a text-based game that simulates a Pokemon Battle
+  - Learning
 ---
 
 Until the end of my first year of college, I had no clear idea of what I wanted to do with my life. I would always find a new hobby, then subsequently lose interest in it over time. The only constant I've had throughout the years is a burning desire to create, and learning how to program gave me the tools to do just that.
