@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: "Hello World" Changed My Life
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
