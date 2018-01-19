@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/marshmellow.jpg
+title: Egg Run
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-12-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Python
+  - Pygame
+summary: A simple 2-D platformer made in pygame.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
