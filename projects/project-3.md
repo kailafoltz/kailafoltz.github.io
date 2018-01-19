@@ -9,7 +9,7 @@ date: 2017-12-12
 labels:
   - Python
   - Pygame
-summary: A simple 2-D platformer made in pygame.
+summary: A 2-D pygame platformer.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
