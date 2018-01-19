@@ -5,7 +5,7 @@ image: images/5zPzVYQt_400x400.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-01-18
 labels:
   - Robotics
   - Arduino
