@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/5zPzVYQt_400x400.jpg
 title: Pokemon Text Game
-permalink: projects/pokemon-text-game
+permalink: projects/pokebattle
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-05
 labels:
