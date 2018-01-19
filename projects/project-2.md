@@ -1,17 +1,15 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/maxresdefault.jpg
+title: File's SHA-1 Code
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-05-10
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C++
+  - SHA-1
+summary: A C++ program that produces a hash code from a file's contents.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
