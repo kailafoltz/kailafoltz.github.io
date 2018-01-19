@@ -5,7 +5,7 @@ image: images/marshmellow.jpg
 title: Egg Run
 permalink: projects/egg-run
 # All dates must be YYYY-MM-DD format!
-date: 2016-01-14
+date: 2017-01-14
 labels:
   - Python
   - Pygame
