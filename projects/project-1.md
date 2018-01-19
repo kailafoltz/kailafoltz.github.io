@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/5zPzVYQt_400x400.jpg
-title: Micromouse
+title: Pokemon Text Game
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
