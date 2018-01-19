@@ -5,7 +5,7 @@ image: images/5zPzVYQt_400x400.jpg
 title: Pokemon Text Game
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-18
+date: 2017-05-05
 labels:
   - Java
 summary: I created a text-based game that simulates a Pokemon Battle
