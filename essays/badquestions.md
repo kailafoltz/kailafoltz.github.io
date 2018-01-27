@@ -19,13 +19,13 @@ StackOverflow is a help forum well-known by novice and expert programmers alike.
 The article “How to Ask Questions the Smart Way” by software developer Eric S. Raymond outlines multiple ways on how to construct an effective question. From the nearly 11k words in Raymond’s article, I’ve gathered that when asking a question, it’s crucial to: 1) Not be lazy and 2) Be precise. 
 
 
-## The Bad Question
+## A bad question
 <img class="ui image" src="{{ site.baseurl }}/images/badquestion.png">
 
 Judging by the downvotes, it’s clear that people were less than impressed with this posting. But why? In his article, Raymond stresses how important it is to do your own research before asking. If the asker doesn’t show that they put at least some effort into solving their problem on their own, others will be less willing to help out. The question above shows minimal effort; the problem is briefly described and followed by a quick copy-paste of the output. Immediately you’re left with an impression that the asker is lazy. 
 
 
-## The Good Question
+## A good question
 <img class="ui image" src="{{ site.baseurl }}/images/goodquestion.png">
 
 This posting showcases multiple qualities of a good question. It’s formatted clearly, making it easier for the reader to understand. In addition to this, the asker includes the steps they’ve taken before posting, such as reading multiple sources, and includes the outcomes as well. After reading through the question, it’s clear to me that they are willing to learn and collaborate with the forum to reach a solution. This person is also explicit, allowing others to have a complete understanding of what the asker is trying to do.
