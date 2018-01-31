@@ -28,7 +28,7 @@ Judging by the downvotes, it’s clear that people were less than impressed with
 ## A good question
 <img class="ui image" src="{{ site.baseurl }}/images/goodquestion.png">
 
-This posting showcases multiple qualities of a good question. It’s formatted clearly, making it easier for the reader to understand. In addition to this, the asker includes the steps they’ve taken before posting, such as reading multiple sources, and includes the outcomes as well. After reading through the question, it’s clear to me that they are willing to learn and collaborate with the forum to reach a solution. This person is also explicit, allowing others to have a complete understanding of what the asker is trying to do.
+This posting showcases multiple qualities of a good question. It’s formatted clearly, making it easier for the reader to understand. In addition to this, the asker includes the steps they’ve taken before posting, such as reading multiple sources, and includes the outcomes as well. After reading through the question, it’s clear that they are willing to learn and collaborate with the forum to reach a solution. This person is also explicit, allowing others to have a complete understanding of what the asker is trying to do.
 
 
 
