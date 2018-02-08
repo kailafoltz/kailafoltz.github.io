@@ -1,19 +1,16 @@
 ---
 layout: essay
 type: essay
-title: The Jury is Still Out on Javascript...
+title: The Cat Hair in Your Code
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-19
+date: 2018-02-07
 labels:
   - Javascript
   - Learning
+  - Software Engineering
+  - Coding Standards
+  - ESLint
 ---
-## Javascript so far
-When I first began my journey into programming, I foolishly believed that Java and Javascript were one in the same. Boy, was I wrong. Through a simple Google search I came across the quote, "Java and Javascript are similar like Car and Carpet are similar". Prior to taking ICS 314, I only had experience with Java, C, C++ and Python, so this is my first go at using an interpreted language. I've seen the never-ending complaints and jokes made about Javascript by people on the web; it's too slow, not secure, lacks control etc. But in my limited, one-week experience with the language, I have no qualms with it and find it incredibly user-friendly. 
+I wasn’t thrilled when I first started using ESLint. It felt like I was back in a middle school math class where the teacher would take off points merely for the fact that my answer wasn’t labeled. “But it’s correct!”, I’d grumble. Same thing for linting my code. Missed something as trivial as a space before an opening brace? It’s an error! The code still works great, so WHY do I have to change it? After using it for a second time, I realized that linting my code was actually more helpful than it was a nuisance. 
 
-<img class="ui right spaced image" src="../images/javascr.png">
-
-Just like Python, it is dynamically typed, making it easier for me to pick up and quickly write a rudimentary program. Although this is neat at first, I can see how it can be ultimately detrimental when code gets larger and more complex, especially if applied to an extensive software engineering project. In my experience with Python, dynamic typing caused me to have uncaught typos and other errors that weren't realized until I was farther along in a project.  
-
-## WODS: Stressful but helpful
-Working under pressure has always proved difficult for me, so when I first heard of Workout of the day (WODS), I was petrified. The practice WODS assigned for homework and the one we had in class changed my perspective. Knowing what to expect and having been able to complete all the WODS in the time constraint, gave me the confidence I needed. I know that the challenges will only get harder from here on out, but I understand that working under a strict time limit will be something I will face in the future when applying for jobs. 
+Much like using a lint roller on a black shirt covered in cat hair, a code linter removes all the ‘ugly’ from your program. ESLint detects a plethora of bugs, ranging anywhere from minor to disastrous. Moreover, it improves the readability of your code. 
