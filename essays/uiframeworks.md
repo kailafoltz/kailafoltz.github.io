@@ -19,7 +19,7 @@ Want a spinning loading icon? With Semantic UI, just stick the words "spinner lo
 
 
 ## Conclusion
-UI frameworks makes a web developer's life easier. Period. You won't need a 3-mile long stylesheet to create a beautiful and modern website. Of course it's not the be all end all tool of creating websites if you want full control; a UI framework might not be customizable enough for some people. But if you're working with strict deadlines or just want to get a design idea out there, a framework can speed up your process ten-fold. 
+UI frameworks make a web developer's life easier. Period. You won't need a 3-mile long stylesheet to create a beautiful and modern website. Of course it's not the be all end all tool of creating websites if you want full control; a UI framework might not be customizable enough for some people. But if you're working with strict deadlines or just want to get a design idea out there, a framework can speed up your process ten-fold. 
 
 
 
