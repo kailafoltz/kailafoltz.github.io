@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: When your stylesheet becomes a novel, try UI frameworks
+title: Say goodbye to novel-length stylesheets
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
