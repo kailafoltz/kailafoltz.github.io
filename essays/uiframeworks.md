@@ -11,11 +11,11 @@ labels:
   - CSS
 ---
 
-## Why use a UI Framework?
-When I first tried creating a website using HTML and CSS alone, I was horrified by how 2003 it looked. How can a simple webpage need such a lengthy stylesheet? Despite spending a lot of time adding as many styles as I could to my css file, all I could think about when looking at my webpage was that 'graphic design is my passion' meme. <img class="ui right floated small image" style="padding-top: 5px" src="{{ site.baseurl }}/images/graphicdes.jpg"> There was no way I could make an appealing and responsive website in a decent amount of time without a UI framework. Having never used a UI framework, I was nervous about the undoubtedly extensive amount of rules and info I would have to learn before implementing it in class. To my surprise the UI framework I used, Semantic UI, was incredibly intuitive and easy to grasp. 
+## Why use Semantic UI?
+When I first tried creating a website using HTML and CSS alone, I was horrified by how 2003 it looked. Why does a simple webpage need such a lengthy stylesheet? Despite spending a lot of time on my css file, all I could think about when looking at my webpage was that 'graphic design is my passion' meme. <img class="ui right floated small image" style="padding-top: 5px" src="{{ site.baseurl }}/images/graphicdes.jpg"> There was no way I could make an appealing and responsive website in a decent amount of time without a UI framework. Having never used a UI framework, I was nervous about the undoubtedly extensive amount of rules and info I would have to learn before implementing it in class. To my surprise the framework I used, Semantic UI, was incredibly intuitive and easy to grasp. 
 
-#
-Judging by the downvotes, it’s clear that people were less than impressed with this posting. But why? In his article, Raymond stresses how important it is to do your own research before asking. If the asker doesn’t show that they put at least some effort into solving their problem on their own, others will be less willing to help out. The question above shows minimal effort; the problem is briefly described and followed by a quick copy-paste of the output. Immediately you’re left with an impression that the asker is lazy. 
+## If you know how to use nouns and adjectives, you're set
+Want a spinning loading icon? With Semantic UI, just stick the words "spinner loading icon" into an <i> tag and VOILA! You've got a loading icon on your webpage. 
 
 
 ## A good question
