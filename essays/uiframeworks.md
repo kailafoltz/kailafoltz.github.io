@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Web Dev made simple
+title: Semantic UI: Simple & Quick
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
