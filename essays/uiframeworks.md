@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Less CSS, better website
+title: Web Dev made simple
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
