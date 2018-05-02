@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Asking Questions the Dumb Way
+title: Design Patterns
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-25
+date: 2018-05-01
 labels:
   - Software Engineering
   - Learning
-  - StackOverflow
+  - design
 ---
 
 
