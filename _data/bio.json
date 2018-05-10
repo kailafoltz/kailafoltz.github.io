@@ -79,6 +79,30 @@
       ]
     }
   ],
+    "work": [
+    {
+      "company": "Lucky Brand",
+      "position": "Part Time Supervisor",
+      "website": "",
+      "startDate": "2016-11-10",
+      "endDate": "2018-01-04",
+      "summary": "",
+      "highlights": [
+        "Handle cash wrap and shipment",
+        "Manage inventory",
+        "Supervise and assign tasks"
+      ]
+    },
+    {
+      "company": "Open Power Quality",
+      "position": "Developer",
+      "website": "https://openpowerquality.org",
+      "startDate": "2018-04-06",
+      "endDate": "Present",
+      "summary": "Create UI components for the web application",
+      ]
+    },
+  ],
   "references": [
     {
       "name": "Available upon request",
