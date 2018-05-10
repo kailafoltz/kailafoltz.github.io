@@ -24,7 +24,7 @@ For my final project in ICS 314, I had the opportunity to join Professor Philip 
 
 ## VIP Poster Session
 
-<img class="ui image" src="{{ site.baseurl }}/images/vip-poster.png">
+<img class="ui image" src="{{ site.baseurl }}/images/vip-poster.jpg">
 <h6 style = "text-align:justify">
     Presenting OPQ at the VIP Poster Session at UH Manoa 
 </h6>
