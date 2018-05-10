@@ -24,7 +24,6 @@ The first issue I worked on for this project was implementing an edit page for t
 <img class="ui fluid left floated medium image" src="{{ site.baseurl }}/images/alerts_manager.png">
 The alert manager allows users to configure "Alerts". Alerts are user-configurable representations for a set of events that the user is interested in. Currently the alert manager page features preset alerts where the user can select a time interval (start and end day) and press the submit button to find all events specified by the alert. 
 
-<br>
 ## VIP Poster Session
 <img class="ui left floated medium image" src="{{ site.baseurl }}/images/vip-poster.jpg">
 In early April of 2018, OPQ was presented at the Vertically Integrated Projects (VIP) Poster Session at UH Manoa. I assisted in putting together the poster and presenting it. It allowed me to build my communication skills and was my first experience participating in an undegraduate showcase. 
